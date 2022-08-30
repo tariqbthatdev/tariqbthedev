@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tariqbthedev
 - 👀 I’m interested in improving myself to my best version
 - 🌱 I’m currently learning JavaScript and UX/UI Design
-- 📫 Reach me at brownta0225@gmail.com 
+- 📫 Reach me at tariq.brown918@gmail.com 
 
 <!---
 tariqbthedev/tariqbthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
